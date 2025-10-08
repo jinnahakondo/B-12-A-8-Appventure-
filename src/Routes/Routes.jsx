@@ -13,7 +13,13 @@ export const router = createBrowserRouter([
             {
                 path: 'apps',
                 element: <h1>Hello from Apps</h1>
+            },
+            {
+                path: 'installation',
+                element: <h1>Hello from Installation</h1>
+
             }
+
         ]
     }
 ])

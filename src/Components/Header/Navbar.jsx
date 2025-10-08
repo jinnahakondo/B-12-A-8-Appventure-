@@ -1,6 +1,7 @@
 import React from 'react';
 import Logo from '../../assets/logo.png'
 import { Link, NavLink } from 'react-router';
+import { FaGithub } from 'react-icons/fa';
 
 const Navbar = () => {
     return (
@@ -13,16 +14,10 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex={0}
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><a>Item 1</a></li>
-                            <li>
-                                <a>Parent</a>
-                                <ul className="p-2">
-                                    <NavLink>Home</NavLink>
-                                    <NavLink>Apps</NavLink>
-                                </ul>
-                            </li>
-                            <li><a>Item 3</a></li>
+                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3  p-2 shadow space-y-5 ">
+                            <NavLink to='/' >Home</NavLink>
+                            <NavLink to='/apps'>Apps</NavLink>
+                            <NavLink to='/installation'>Installation</NavLink>
                         </ul>
                     </div>
                     <Link className="btn btn-ghost text-xl"><img src={Logo} className='h-10 w-10' /><span className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold'>AppVenture</span></Link>
@@ -34,8 +29,8 @@ const Navbar = () => {
                         <NavLink to='/installation'>Installation</NavLink>
                     </ul>
                 </div>
-                <div className="navbar-end">
-                    <a className="btn">Button</a>
+                <div className="navbar-end pr-4">
+                    <a href='https://github.com/jinnahakondo' className="btn text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-xl"><FaGithub /> <span>Contribute</span></a>
                 </div>
             </div>
         </div>
