@@ -1,0 +1,992 @@
+[
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/942/942748.png",
+        "title": "TaskFlow Organizer",
+        "companyName": "NextGen Labs",
+        "id": 1,
+        "description": "TaskFlow Organizer is a modern productivity app designed for individuals and teams. It allows users to manage tasks, set priorities, and visualize progress through kanban boards and timelines. You can add recurring reminders, attach files, assign tasks to team members, and monitor deadlines with smart notifications. TaskFlow also integrates with Google Calendar, Slack, and Notion — keeping your workflow in perfect sync. Its clean interface and cloud sync make productivity effortless across all your devices.",
+        "size": 55,
+        "reviews": 1480,
+        "ratingAvg": 4.6,
+        "downloads": "195K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 65
+            },
+            {
+                "name": "3 star",
+                "count": 135
+            },
+            {
+                "name": "4 star",
+                "count": 450
+            },
+            {
+                "name": "5 star",
+                "count": 790
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2920/2920316.png",
+        "title": "PhotoMaster Pro",
+        "companyName": "PixelEdge Studios",
+        "id": 2,
+        "description": "PhotoMaster Pro brings the power of professional photo editing to your mobile device. With AI-based tools, you can remove backgrounds, enhance colors, adjust exposure, and fix blemishes with one tap. It includes layer support, object cloning, RAW file handling, and 100+ filters for stunning results. PhotoMaster’s real-time preview and cloud sync let photographers edit on the go and access their projects anywhere. Perfect for content creators and social media professionals looking for pro-level results without the complexity.",
+        "size": 80,
+        "reviews": 5412,
+        "ratingAvg": 4.5,
+        "downloads": "850K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 130
+            },
+            {
+                "name": "2 star",
+                "count": 210
+            },
+            {
+                "name": "3 star",
+                "count": 520
+            },
+            {
+                "name": "4 star",
+                "count": 1700
+            },
+            {
+                "name": "5 star",
+                "count": 2852
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/4727/4727420.png",
+        "title": "FitTrack Pro",
+        "companyName": "HealthPlus Innovations",
+        "id": 3,
+        "description": "FitTrack Pro is a full-featured fitness tracker and wellness app. It monitors your steps, heart rate, sleep cycles, and calories burned using AI-powered analytics. You can create personalized fitness goals, access guided workout plans, and sync data with wearables like Fitbit and Apple Watch. FitTrack provides weekly reports, achievement badges, and progress graphs to keep you motivated on your fitness journey. It’s a perfect digital fitness coach for beginners and advanced users alike.",
+        "size": 60,
+        "reviews": 2265,
+        "ratingAvg": 4.7,
+        "downloads": "900K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 85
+            },
+            {
+                "name": "3 star",
+                "count": 180
+            },
+            {
+                "name": "4 star",
+                "count": 540
+            },
+            {
+                "name": "5 star",
+                "count": 1410
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/5693/5693214.png",
+        "title": "BudgetBuddy Plus",
+        "companyName": "FinSmart Solutions",
+        "id": 4,
+        "description": "BudgetBuddy Plus helps users manage expenses, track income, and plan savings effortlessly. It categorizes your spending automatically, provides visual reports, and reminds you about upcoming bills. The app also offers budgeting templates, goal-setting tools, and AI-based financial advice to help you save smarter. With secure cloud backup and offline mode, you’ll always have access to your finances anywhere, anytime.",
+        "size": 48,
+        "reviews": 1278,
+        "ratingAvg": 4.2,
+        "downloads": "295K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 90
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 330
+            },
+            {
+                "name": "5 star",
+                "count": 598
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/3145/3145765.png",
+        "title": "Learnly Academy",
+        "companyName": "EduCore Global",
+        "id": 5,
+        "description": "Learnly Academy is an e-learning platform built for students, professionals, and lifelong learners. It offers thousands of courses on coding, design, marketing, and more — all with interactive videos, quizzes, and certifications. Students can track progress, participate in discussion forums, and earn verified certificates after completion. The app also uses adaptive learning technology to adjust difficulty based on performance. With offline access and cross-device syncing, learning never stops.",
+        "size": 95,
+        "reviews": 4325,
+        "ratingAvg": 4.8,
+        "downloads": "1.3M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 85
+            },
+            {
+                "name": "2 star",
+                "count": 130
+            },
+            {
+                "name": "3 star",
+                "count": 260
+            },
+            {
+                "name": "4 star",
+                "count": 850
+            },
+            {
+                "name": "5 star",
+                "count": 2999
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/8637/8637099.png",
+        "title": "NewsNow Daily",
+        "companyName": "InfoStream Media",
+        "id": 6,
+        "description": "NewsNow Daily gives you the latest headlines from trusted sources around the world. It uses AI to personalize your news feed according to your interests. Stay updated with breaking news alerts, offline reading, dark mode, and text-to-speech reading options. The app covers politics, technology, sports, entertainment, and local events — all in one smooth, ad-light experience.",
+        "size": 38,
+        "reviews": 1390,
+        "ratingAvg": 4.1,
+        "downloads": "310K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 75
+            },
+            {
+                "name": "2 star",
+                "count": 105
+            },
+            {
+                "name": "3 star",
+                "count": 305
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 505
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/727/727245.png",
+        "title": "Musicify Unlimited",
+        "companyName": "AudioVerse",
+        "id": 7,
+        "description": "Musicify Unlimited is your personal music streaming universe. Enjoy millions of songs, albums, and playlists without interruptions. Create custom playlists, download songs for offline listening, follow your favorite artists, and enjoy lyrics with synced scrolling. With a powerful recommendation engine, Musicify learns your taste and curates perfect playlists for every mood.",
+        "size": 67,
+        "reviews": 6010,
+        "ratingAvg": 4.5,
+        "downloads": "2.3M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 180
+            },
+            {
+                "name": "2 star",
+                "count": 240
+            },
+            {
+                "name": "3 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 1450
+            },
+            {
+                "name": "5 star",
+                "count": 3640
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/854/854878.png",
+        "title": "TravelMate Explorer",
+        "companyName": "GlobeTrek Ventures",
+        "id": 8,
+        "description": "TravelMate Explorer helps you plan your dream trips effortlessly. Book flights, hotels, and tours, explore destination guides, and use offline maps while traveling. It includes currency converters, language translators, and trip expense trackers. TravelMate also offers a community space where travelers share experiences and hidden gems — making every trip more meaningful.",
+        "size": 85,
+        "reviews": 2134,
+        "ratingAvg": 4.4,
+        "downloads": "630K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 95
+            },
+            {
+                "name": "2 star",
+                "count": 140
+            },
+            {
+                "name": "3 star",
+                "count": 310
+            },
+            {
+                "name": "4 star",
+                "count": 560
+            },
+            {
+                "name": "5 star",
+                "count": 1029
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+        "title": "ChatBox Messenger",
+        "companyName": "Connectify Labs",
+        "id": 9,
+        "description": "ChatBox Messenger is a fast, secure messaging app with group chats, voice notes, and end-to-end encryption. Share media, create channels, and customize themes. It supports stickers, file sharing up to 2GB, and has integrated polls and events for communities.",
+        "size": 42,
+        "reviews": 5120,
+        "ratingAvg": 4.3,
+        "downloads": "1.8M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 220
+            },
+            {
+                "name": "3 star",
+                "count": 720
+            },
+            {
+                "name": "4 star",
+                "count": 1500
+            },
+            {
+                "name": "5 star",
+                "count": 2380
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2921/2921822.png",
+        "title": "ScannerPro Lite",
+        "companyName": "DocuFast",
+        "id": 10,
+        "description": "ScannerPro Lite turns your phone into a portable scanner. Scan documents, receipts, and whiteboards. It auto-crops, enhances scan quality, and creates searchable PDFs with OCR. Share or upload to cloud services directly from the app.",
+        "size": 25,
+        "reviews": 890,
+        "ratingAvg": 4.0,
+        "downloads": "220K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 80
+            },
+            {
+                "name": "3 star",
+                "count": 180
+            },
+            {
+                "name": "4 star",
+                "count": 330
+            },
+            {
+                "name": "5 star",
+                "count": 240
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/201/201634.png",
+        "title": "RecipeHub",
+        "companyName": "YumLabs",
+        "id": 11,
+        "description": "RecipeHub offers thousands of recipes, step-by-step instructions, meal planners, and shopping lists. Save favorites, follow chefs, and get personalized recipe suggestions based on dietary preferences.",
+        "size": 36,
+        "reviews": 1450,
+        "ratingAvg": 4.4,
+        "downloads": "410K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 45
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 220
+            },
+            {
+                "name": "4 star",
+                "count": 520
+            },
+            {
+                "name": "5 star",
+                "count": 605
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/1040/1040253.png",
+        "title": "SafeVault Passwords",
+        "companyName": "SecureSoft",
+        "id": 12,
+        "description": "SafeVault stores passwords securely, autofills logins, and generates strong passwords. Supports biometric unlock, cross-device sync, and encrypted notes.",
+        "size": 30,
+        "reviews": 980,
+        "ratingAvg": 4.2,
+        "downloads": "150K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 340
+            },
+            {
+                "name": "5 star",
+                "count": 450
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/3176/3176290.png",
+        "title": "Pedometer+",
+        "companyName": "StepWorks",
+        "id": 13,
+        "description": "Pedometer+ counts steps, measures distance, and estimates calories burned. Integrates with health platforms and supports challenges with friends.",
+        "size": 12,
+        "reviews": 430,
+        "ratingAvg": 4.0,
+        "downloads": "90K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 150
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/201/201623.png",
+        "title": "StudyFlash Cards",
+        "companyName": "LearnFast",
+        "id": 14,
+        "description": "StudyFlash Cards helps students memorize facts using spaced repetition. Create decks, share with classmates, and track learning progress.",
+        "size": 18,
+        "reviews": 670,
+        "ratingAvg": 4.5,
+        "downloads": "140K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 355
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/190/190411.png",
+        "title": "WeatherWise",
+        "companyName": "ClimaTech",
+        "id": 15,
+        "description": "WeatherWise provides accurate hourly and 10-day forecasts, severe weather alerts, radar maps, and lifestyle-based recommendations.",
+        "size": 28,
+        "reviews": 2100,
+        "ratingAvg": 4.3,
+        "downloads": "520K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 120
+            },
+            {
+                "name": "3 star",
+                "count": 420
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 670
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
+        "title": "HabitLoop",
+        "companyName": "BetterYou",
+        "id": 16,
+        "description": "HabitLoop helps you build positive habits with streaks, reminders, and analytics. Join habit groups and share progress.",
+        "size": 22,
+        "reviews": 760,
+        "ratingAvg": 4.4,
+        "downloads": "195K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 260
+            },
+            {
+                "name": "5 star",
+                "count": 320
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2913/2913464.png",
+        "title": "LanguageBuddy",
+        "companyName": "LingoWorks",
+        "id": 17,
+        "description": "LanguageBuddy offers bite-sized lessons, interactive exercises, and pronunciation practice with speech recognition.",
+        "size": 72,
+        "reviews": 3240,
+        "ratingAvg": 4.6,
+        "downloads": "780K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 80
+            },
+            {
+                "name": "3 star",
+                "count": 300
+            },
+            {
+                "name": "4 star",
+                "count": 900
+            },
+            {
+                "name": "5 star",
+                "count": 1900
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "title": "FlashScan OCR",
+        "companyName": "Textify",
+        "id": 18,
+        "description": "FlashScan OCR provides ultra-fast text recognition and exports to multiple formats. Great for digitizing books and receipts.",
+        "size": 34,
+        "reviews": 540,
+        "ratingAvg": 4.2,
+        "downloads": "98K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "5 star",
+                "count": 190
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/1250/1250686.png",
+        "title": "MeditateNow",
+        "companyName": "CalmWave",
+        "id": 19,
+        "description": "MeditateNow brings guided meditations, sleep stories, and breathing exercises for stress relief and better sleep.",
+        "size": 47,
+        "reviews": 2980,
+        "ratingAvg": 4.7,
+        "downloads": "1M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 55
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 1935
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2932/2932016.png",
+        "title": "InvoiceMate",
+        "companyName": "BizTools",
+        "id": 20,
+        "description": "InvoiceMate helps small businesses create invoices, track payments, and manage clients. Exports to PDF and syncs with accounting platforms.",
+        "size": 40,
+        "reviews": 830,
+        "ratingAvg": 4.3,
+        "downloads": "210K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 55
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 245
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+        "title": "GroceryGo",
+        "companyName": "MarketEase",
+        "id": 21,
+        "description": "GroceryGo offers online grocery shopping, same-day delivery, recipe suggestions based on cart items, and smart shopping lists.",
+        "size": 62,
+        "reviews": 2200,
+        "ratingAvg": 4.2,
+        "downloads": "450K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 110
+            },
+            {
+                "name": "2 star",
+                "count": 140
+            },
+            {
+                "name": "3 star",
+                "count": 420
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 730
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910793.png",
+        "title": "VR Gallery",
+        "companyName": "Immersive Arts",
+        "id": 22,
+        "description": "VR Gallery brings virtual art exhibitions to your device. Explore 3D galleries, read artist bios, and attend live virtual talks.",
+        "size": 120,
+        "reviews": 410,
+        "ratingAvg": 4.0,
+        "downloads": "60K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 110
+            },
+            {
+                "name": "4 star",
+                "count": 150
+            },
+            {
+                "name": "5 star",
+                "count": 100
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910766.png",
+        "title": "KidsLearn",
+        "companyName": "TinyMinds",
+        "id": 23,
+        "description": "KidsLearn is an educational app for young children with interactive games, stories, and learning paths for early literacy and numeracy.",
+        "size": 90,
+        "reviews": 1240,
+        "ratingAvg": 4.6,
+        "downloads": "320K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 575
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/201/201623.png",
+        "title": "BoardPlanner",
+        "companyName": "OrganizeIt",
+        "id": 24,
+        "description": "BoardPlanner helps teams plan sprints, create boards, and visualize workloads with drag-and-drop features and analytics.",
+        "size": 58,
+        "reviews": 640,
+        "ratingAvg": 4.1,
+        "downloads": "97K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 110
+            },
+            {
+                "name": "4 star",
+                "count": 260
+            },
+            {
+                "name": "5 star",
+                "count": 215
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
+        "title": "ScannerCam Pro",
+        "companyName": "CaptureWorks",
+        "id": 25,
+        "description": "ScannerCam Pro scans documents, cleans images, and exports multi-page PDFs. Includes OCR and cloud backup options.",
+        "size": 29,
+        "reviews": 980,
+        "ratingAvg": 4.2,
+        "downloads": "180K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 180
+            },
+            {
+                "name": "4 star",
+                "count": 360
+            },
+            {
+                "name": "5 star",
+                "count": 340
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/641/641796.png",
+        "title": "DailyQuotes",
+        "companyName": "InspireNow",
+        "id": 26,
+        "description": "DailyQuotes supplies curated motivational quotes, wallpapers, and shareable images to brighten your day.",
+        "size": 14,
+        "reviews": 320,
+        "ratingAvg": 4.5,
+        "downloads": "85K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 50
+            },
+            {
+                "name": "4 star",
+                "count": 85
+            },
+            {
+                "name": "5 star",
+                "count": 160
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/883/883347.png",
+        "title": "DriveCleaner",
+        "companyName": "SystemCare",
+        "id": 27,
+        "description": "DriveCleaner frees up storage, clears cache, and optimizes performance with one-tap cleaning and scheduled maintenance.",
+        "size": 20,
+        "reviews": 1500,
+        "ratingAvg": 4.0,
+        "downloads": "410K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 120
+            },
+            {
+                "name": "2 star",
+                "count": 160
+            },
+            {
+                "name": "3 star",
+                "count": 380
+            },
+            {
+                "name": "4 star",
+                "count": 520
+            },
+            {
+                "name": "5 star",
+                "count": 320
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png",
+        "title": "ParkFinder",
+        "companyName": "CityNav",
+        "id": 28,
+        "description": "ParkFinder helps drivers locate nearby parking, compare prices, and reserve spots in advance with navigation integration.",
+        "size": 27,
+        "reviews": 410,
+        "ratingAvg": 4.1,
+        "downloads": "90K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 160
+            },
+            {
+                "name": "5 star",
+                "count": 95
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/201/201623.png",
+        "title": "StudyPlanner Pro",
+        "companyName": "FocusLabs",
+        "id": 29,
+        "description": "StudyPlanner Pro helps students schedule study time, set goals, and track productivity with Pomodoro timers and analytics.",
+        "size": 33,
+        "reviews": 720,
+        "ratingAvg": 4.4,
+        "downloads": "145K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 280
+            },
+            {
+                "name": "5 star",
+                "count": 270
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
+        "title": "Emergency SOS",
+        "companyName": "SafeNet",
+        "id": 30,
+        "description": "Emergency SOS provides one-tap alerts to contacts, location sharing, and emergency numbers with automatic fall detection and low-battery mode.",
+        "size": 16,
+        "reviews": 660,
+        "ratingAvg": 4.3,
+        "downloads": "120K",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 220
+            },
+            {
+                "name": "5 star",
+                "count": 310
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+import React from 'react';
+import { CiStar } from 'react-icons/ci';
+
+const TrandingApp = ({ app }) => {
+    const { image, title, downloads, ratingAvg } = app;
+    return (
+        <div className='shadow-lg p-5 rounded-2xl  bg-white mt-20 border border-gray-200'>
+            <div className=''>
+                <img src={image} className='h-80 mx-auto' />
+            </div>
+            <h2 className='text-xl font-semibold mt-4'>{title}</h2>
+            <div className='mt-5 flex items-center justify-between'>
+                <div> <a className='text-green-600 px-4 py-1 rounded-lg bg-green-200 font-medium'> {downloads}</a></div>
+                <div> <a className='text-red-600 px-4 py-1 rounded-lg bg-red-200 font-medium flex items-center justify-center gap-2'> <CiStar /> {ratingAvg}</a></div>
+            </div>
+        </div>
+    );
+};
+
+export default TrandingApp;

@@ -2,11 +2,9 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            <div className='max-w-7xl mx-auto px-5'>
-                Footer
-            </div>
-        </div>
+        <footer className="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4">
+            <p>Copyright © {new Date().getFullYear()} - All right reserved by MD Jinnah Akondo</p>
+        </footer>
     );
 };
 
