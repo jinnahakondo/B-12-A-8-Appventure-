@@ -12,6 +12,20 @@ const InstalledApps = () => {
         const StoredApps = allApps.filter(app => storedAppsId.includes(app.id))
         setAllStoredApps(StoredApps)
     }, [allApps])
+
+    // sort high to low 
+    const handelOnChange = (e) => {
+        const value = e.target.value;
+        if (value === 'lowToHigh') {
+            setAllStoredApps([...allStoredApps].sort((a, b) => a.ratingAvg - b.ratingAvg))
+
+        }
+        else if (value === 'highToLow') {
+            setAllStoredApps([...allStoredApps].sort((a, b) => b.ratingAvg - a.ratingAvg))
+
+        }
+    }
+
     return (
         <div>
             <div className='my-10'>
@@ -22,10 +36,10 @@ const InstalledApps = () => {
                 <div><h3 className='text-2xl font-bold'>({allStoredApps.length}) Apps Found</h3></div>
                 <div>
                     <div className=''>
-                        <select className='btn'>
-                            <option disabled> Sort By</option>
-                            <option > High - Low</option>
-                            <option > Low - High </option>
+                        <select className='btn' onChange={handelOnChange}>
+                            <option disabled selected > Sort By</option>
+                            <option value="highToLow" > High - Low</option>
+                            <option value="lowToHigh"> Low - High </option>
                         </select>
                     </div>
                 </div>
