@@ -6,6 +6,7 @@ import ReviewIcon from '../../../../assets/icon-review.png'
 import Chart from '../../../Chart/Chart';
 
 const AppDetails = () => {
+    const [isDisabled, setIsDisabled] = useState(false)
     const [appData, setAppData] = useState([])
     const { id } = useParams();
     const appId = parseInt(id)
@@ -17,6 +18,10 @@ const AppDetails = () => {
 
     }, [appId, allAppsData])
 
+    // handelInstallBtn 
+    const handelInstallBtn = () => {
+        setIsDisabled(true)
+    }
     return (
         <div>
             <div className='flex flex-col lg:flex-row gap-10 my-20'>
@@ -44,7 +49,7 @@ const AppDetails = () => {
 
                     </div>
                     <div className='flex justify-center lg:justify-start'>
-                        <button className='btn text-white font-semibold bg-green-500 mt-8 rounded-lg text-xl  px-4 py-6'> Install Now ({size} MB)</button>
+                        <button className=' disabled:text-white disabled:font-semibold disabled:bg-green-500 disabled:rounded-lg text-white font-semibold bg-green-500 mt-8 rounded-lg text-xl  px-5 py-3 ' onClick={handelInstallBtn} disabled={isDisabled}> {isDisabled ? "Installed" : `Install Now (${size} MB)`} </button>
                     </div>
                 </div>
 

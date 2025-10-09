@@ -5,7 +5,7 @@ import Navbar from '../Header/Navbar';
 
 const Root = () => {
     return (
-        <div>
+        <div className='h-screen'>
             <Navbar />
             <div className='w-11/12 mx-auto '>
                 <Outlet />

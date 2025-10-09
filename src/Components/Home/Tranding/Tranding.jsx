@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { BsApp } from 'react-icons/bs';
 import TrandingApp from './TrandingApp';
+import { Link } from 'react-router';
 
 const Tranding = () => {
     const [trandingAppsData, setTrandingAppsData] = useState([])
@@ -20,7 +21,7 @@ const Tranding = () => {
                 }
             </div>
             <div className='mt-10 mb-20 grid place-items-center'>
-                <a className="btn max-md:text-xs text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg "> <span>Show All</span></a>
+                <Link to='/apps' className="btn max-md:text-xs text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg "> <span>Show All</span></Link>
             </div>
         </div>
     );
