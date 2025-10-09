@@ -10,7 +10,7 @@ const AppDetails = () => {
     const { id } = useParams();
     const appId = parseInt(id)
     const allAppsData = useLoaderData();
-    const { title, companyName, image, downloads, ratingAvg, reviews, size, ratings } = appData;
+    const { title, companyName, image, downloads, ratingAvg, reviews, size, ratings, description } = appData;
     useEffect(() => {
         const filteredApp = allAppsData.find(app => app.id === appId);
         setAppData(filteredApp)
@@ -52,6 +52,12 @@ const AppDetails = () => {
             <div className='bg-gray-300 h-0.5 w-full my-10'></div>
             <div className=''>
                 <Chart ratings={ratings} />
+            </div>
+            <div className='bg-gray-300 h-0.5 w-full my-10'></div>
+
+            <div>
+                <h2 className='font-bold text-xl'>Description</h2>
+                <p className='py-7 text-gray-700'>{description}</p>
             </div>
         </div>
     );
