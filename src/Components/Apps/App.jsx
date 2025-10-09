@@ -2,9 +2,8 @@ import React from 'react';
 import { CiStar } from 'react-icons/ci';
 import { Link } from 'react-router';
 
-const TrandingApp = ({ app }) => {
+const App = ({ app }) => {
     const { image, title, downloads, ratingAvg, id } = app;
-
     return (
         <Link to={`/apps-details/${id}`}>
             <div className='shadow-lg p-5 rounded-2xl  bg-white mt-20 border border-gray-200'>
@@ -21,4 +20,4 @@ const TrandingApp = ({ app }) => {
     );
 };
 
-export default TrandingApp;
+export default App;
