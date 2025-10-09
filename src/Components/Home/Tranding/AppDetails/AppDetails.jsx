@@ -4,6 +4,7 @@ import DownloadIcon from '../../../../assets/icon-downloads.png'
 import StarIcon from '../../../../assets/icon-ratings.png'
 import ReviewIcon from '../../../../assets/icon-review.png'
 import Chart from '../../../Chart/Chart';
+import { addAppsToLs } from '../../../../Utiltty/Utility';
 
 const AppDetails = () => {
     const [isDisabled, setIsDisabled] = useState(false)
@@ -21,6 +22,9 @@ const AppDetails = () => {
     // handelInstallBtn 
     const handelInstallBtn = () => {
         setIsDisabled(true)
+
+        // set to localStorage 
+        addAppsToLs(id)
     }
     return (
         <div>

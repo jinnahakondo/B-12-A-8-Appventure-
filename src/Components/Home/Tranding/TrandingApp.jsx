@@ -13,8 +13,8 @@ const TrandingApp = ({ app }) => {
                 </div>
                 <h2 className='text-xl font-semibold mt-4'>{title}</h2>
                 <div className='mt-5 flex items-center justify-between'>
-                    <div> <a className='text-green-600 px-4 py-1 rounded-lg bg-green-200 font-medium'> {downloads}</a></div>
-                    <div> <a className='text-red-600 px-4 py-1 rounded-lg bg-red-200 font-medium flex items-center justify-center gap-2'> <CiStar /> {ratingAvg}</a></div>
+                    <div> <span className='text-green-600 px-4 py-1 rounded-lg bg-green-200 font-medium'> {downloads}</span></div>
+                    <div> <span className='text-red-600 px-4 py-1 rounded-lg bg-red-200 font-medium flex items-center justify-center gap-2'> <CiStar /> {ratingAvg}</span></div>
                 </div>
             </div>
         </Link>

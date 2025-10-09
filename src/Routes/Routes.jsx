@@ -30,6 +30,7 @@ export const router = createBrowserRouter([
             },
             {
                 path: 'installation',
+                loader: () => fetch('/appsData.json'),
                 element: <Suspense fallback={<div className="flex justify-center items-center py-4"> <BarLoader /> </div>}>
                     <InstalledApps />
                 </Suspense>
