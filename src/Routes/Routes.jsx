@@ -8,6 +8,8 @@ import Error from "../Components/Error/Error";
 const AllApps = lazy(() => import('../Components/Apps/AllApps'))
 // for app details 
 const AppDetails = lazy(() => import('../Components/Home/Tranding/AppDetails/AppDetails'))
+// for installed apps 
+const InstalledApps = lazy(() => import('../Components/Apps/Installed Apps/InstalledApps'))
 export const router = createBrowserRouter([
     {
         path: '/',
@@ -28,7 +30,9 @@ export const router = createBrowserRouter([
             },
             {
                 path: 'installation',
-                element: <h1>Hello from Installation</h1>
+                element: <Suspense fallback={<div className="flex justify-center items-center py-4"> <BarLoader /> </div>}>
+                    <InstalledApps />
+                </Suspense>
 
             },
             {
