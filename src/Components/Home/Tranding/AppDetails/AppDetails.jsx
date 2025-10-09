@@ -3,7 +3,7 @@ import { useLoaderData, useParams } from 'react-router';
 import DownloadIcon from '../../../../assets/icon-downloads.png'
 import StarIcon from '../../../../assets/icon-ratings.png'
 import ReviewIcon from '../../../../assets/icon-review.png'
-import { Bar, BarChart, Tooltip, XAxis, YAxis } from 'recharts';
+import Chart from '../../../Chart/Chart';
 
 const AppDetails = () => {
     const [appData, setAppData] = useState([])
@@ -43,18 +43,15 @@ const AppDetails = () => {
                         </div>
 
                     </div>
-                    <button className='btn text-white font-semibold bg-green-500 mt-8 rounded-lg text-xl  px-4 py-6'> Install Now ({size} MB)</button>
+                    <div className='flex justify-center lg:justify-start'>
+                        <button className='btn text-white font-semibold bg-green-500 mt-8 rounded-lg text-xl  px-4 py-6'> Install Now ({size} MB)</button>
+                    </div>
                 </div>
 
             </div>
             <div className='bg-gray-300 h-0.5 w-full my-10'></div>
-            <div className='pl-10'>
-                <BarChart width={500} height={300} data={ratings} >
-                    <XAxis dataKey="name" />
-                    <YAxis dataKey="cz" fill='black' />
-                    {/* <Bar dataKey="count" fill='red' /> */}
-
-                </BarChart>
+            <div className=''>
+                <Chart ratings={ratings} />
             </div>
         </div>
     );
