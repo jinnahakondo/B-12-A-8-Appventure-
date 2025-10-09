@@ -6,7 +6,7 @@ const App = ({ app }) => {
     const { image, title, downloads, ratingAvg, id } = app;
     return (
         <Link to={`/apps-details/${id}`}>
-            <div className='shadow-lg p-5 rounded-2xl  bg-white mt-20 border border-gray-200'>
+            <div className='shadow-lg p-5 rounded-2xl  bg-white mt-4 border border-gray-200'>
                 <div className=''>
                     <img src={image} className='h-80 mx-auto' />
                 </div>
