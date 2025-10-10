@@ -10,7 +10,7 @@ const InstalledApp = ({ app }) => {
         const storedAppsId = getStoredApps();
         const ids = storedAppsId.map(storedId => parseInt(storedId))
         const updatedId = ids.filter(id => id !== app.id);
-        // addAppsToLs(updatedId)
+        addAppsToLs(updatedId)
     }
     return (
         <div className='flex flex-col md:flex-row justify-center items-center  md:justify-between gap-5 shadow-lg  rounded-lg p-4 border border-gray-300'>

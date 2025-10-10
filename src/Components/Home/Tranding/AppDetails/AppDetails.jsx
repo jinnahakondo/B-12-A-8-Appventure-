@@ -4,7 +4,7 @@ import DownloadIcon from '../../../../assets/icon-downloads.png'
 import StarIcon from '../../../../assets/icon-ratings.png'
 import ReviewIcon from '../../../../assets/icon-review.png'
 import Chart from '../../../Chart/Chart';
-import { addAppsToLs } from '../../../../Utiltty/Utility';
+import { addAppsToLs, getStoredApps } from '../../../../Utiltty/Utility';
 import { toast } from 'react-toastify';
 
 const AppDetails = () => {
@@ -16,14 +16,19 @@ const AppDetails = () => {
     const { title, companyName, image, downloads, ratingAvg, reviews, size, ratings, description } = appData;
     useEffect(() => {
         const filteredApp = allAppsData.find(app => app.id === appId);
-        setAppData(filteredApp)
+        setAppData(filteredApp);
+
+        const storedApps = getStoredApps();
+        if (storedApps.includes(appId.toString())) {
+            setIsDisabled(true)
+        }
 
     }, [appId, allAppsData])
+
 
     // handelInstallBtn 
     const handelInstallBtn = () => {
         setIsDisabled(true)
-
         // set to localStorage 
         addAppsToLs(id);
         toast.success('App Installetion success')
