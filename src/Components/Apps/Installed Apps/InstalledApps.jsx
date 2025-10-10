@@ -37,6 +37,7 @@ const InstalledApps = () => {
 
     return (
         <div>
+            <title>AppVenture | Installations</title>
             <div className='my-10'>
                 <h2 className='text-2xl md:text-5xl font-black text-center mb-4'>Your Installed Apps</h2>
                 <p className='text-center  md:text-xl text-gray-500'>Explore All Trending Apps on the Market developed by us</p>

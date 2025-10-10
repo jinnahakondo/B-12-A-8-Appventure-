@@ -5,6 +5,7 @@ import Tranding from './Tranding/Tranding';
 const Home = () => {
     return (
         <div>
+            <title> AppVenture | Home</title>
             <Banner />
             <Tranding />
         </div>

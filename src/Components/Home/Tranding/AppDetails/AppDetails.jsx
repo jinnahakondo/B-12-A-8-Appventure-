@@ -35,6 +35,7 @@ const AppDetails = () => {
     }
     return (
         <div>
+            <title>AppVenture | App-Details</title>
             <div className='flex flex-col lg:flex-row gap-10 my-20'>
                 <div className=' bg-gray-300 rounded-2xl'><img src={image} className=' p-5' /></div>
                 <div className='w-full'>
