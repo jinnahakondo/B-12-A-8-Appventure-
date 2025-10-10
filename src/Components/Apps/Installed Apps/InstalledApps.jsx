@@ -47,7 +47,7 @@ const InstalledApps = () => {
             {/* apps  */}
             <div className='space-y-5 mb-10 '>
                 {
-                    allStoredApps.map(app => <InstalledApp key={app.id} app={app} />)
+                    allStoredApps.map(app => <InstalledApp key={app.id} app={app} setAllStoredApps={setAllStoredApps} />)
                 }
             </div>
         </div>

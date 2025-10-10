@@ -4,10 +4,10 @@ import RateIcon from '../../../assets/icon-ratings.png'
 import { toast } from 'react-toastify';
 import { Link } from 'react-router';
 
-const InstalledApp = ({ app }) => {
+const InstalledApp = ({ app, setAllStoredApps }) => {
 
     const handelUnInstallBtn = () => {
-        toast.error("can not uninstall app")
+        toast.error("can not uninstall app");
     }
 
     return (
