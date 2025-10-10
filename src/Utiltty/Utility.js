@@ -22,5 +22,4 @@ const addAppsToLs = id => {
 }
 
 
-
 export { getStoredApps, addAppsToLs }
