@@ -1,3 +1,5 @@
+import { toast } from "react-toastify";
+
 const getStoredApps = () => {
     const storedApss = localStorage.getItem('storedApss');
     if (storedApss) {
@@ -9,7 +11,7 @@ const getStoredApps = () => {
 const addAppsToLs = id => {
     const storedApss = getStoredApps();
     if (storedApss.includes(id)) {
-        alert("already added")
+        toast.error("the app is already installed")
     }
     else {
         storedApss.push(id)

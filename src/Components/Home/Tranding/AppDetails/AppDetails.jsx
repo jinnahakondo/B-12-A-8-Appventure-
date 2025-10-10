@@ -5,6 +5,7 @@ import StarIcon from '../../../../assets/icon-ratings.png'
 import ReviewIcon from '../../../../assets/icon-review.png'
 import Chart from '../../../Chart/Chart';
 import { addAppsToLs } from '../../../../Utiltty/Utility';
+import { toast } from 'react-toastify';
 
 const AppDetails = () => {
     const [isDisabled, setIsDisabled] = useState(false)
@@ -24,7 +25,8 @@ const AppDetails = () => {
         setIsDisabled(true)
 
         // set to localStorage 
-        addAppsToLs(id)
+        addAppsToLs(id);
+        toast.success('App Installetion success')
     }
     return (
         <div>

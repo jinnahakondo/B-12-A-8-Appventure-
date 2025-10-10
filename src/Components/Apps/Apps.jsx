@@ -22,7 +22,7 @@ const Apps = () => {
     return (
         <div>
 
-            <div className='flex flex-col md:flex-row gap-10 justify-center md:justify-between items-center'>
+            <div className='flex flex-col md:flex-row gap-10 justify-center md:justify-between items-center mb-6'>
                 <div>
                     <h3 className='text-2xl font-bold'>({allAppsData.length}) Apps Found</h3>
                 </div>

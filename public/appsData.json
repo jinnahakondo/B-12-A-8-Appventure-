@@ -8,7 +8,7 @@
         "size": 55,
         "reviews": 1480,
         "ratingAvg": 4.6,
-        "downloads": "195K",
+        "downloads": 195000,
         "ratings": [
             {
                 "name": "5 star",
@@ -41,7 +41,7 @@
         "size": 80,
         "reviews": 5412,
         "ratingAvg": 4.5,
-        "downloads": "850K",
+        "downloads": 850000,
         "ratings": [
             {
                 "name": "5 star",
@@ -74,7 +74,7 @@
         "size": 60,
         "reviews": 2265,
         "ratingAvg": 4.7,
-        "downloads": "900K",
+        "downloads": 900000,
         "ratings": [
             {
                 "name": "5 star",
@@ -107,7 +107,7 @@
         "size": 48,
         "reviews": 1278,
         "ratingAvg": 4.2,
-        "downloads": "295K",
+        "downloads": 295000,
         "ratings": [
             {
                 "name": "5 star",
@@ -140,7 +140,7 @@
         "size": 95,
         "reviews": 4325,
         "ratingAvg": 4.8,
-        "downloads": "1.3M",
+        "downloads": 1300000,
         "ratings": [
             {
                 "name": "5 star",
@@ -173,7 +173,7 @@
         "size": 38,
         "reviews": 1390,
         "ratingAvg": 4.1,
-        "downloads": "310K",
+        "downloads": 310000,
         "ratings": [
             {
                 "name": "5 star",
@@ -206,7 +206,7 @@
         "size": 67,
         "reviews": 6010,
         "ratingAvg": 4.5,
-        "downloads": "2.3M",
+        "downloads": 2300000,
         "ratings": [
             {
                 "name": "5 star",
@@ -239,7 +239,7 @@
         "size": 85,
         "reviews": 2134,
         "ratingAvg": 4.4,
-        "downloads": "630K",
+        "downloads": 630000,
         "ratings": [
             {
                 "name": "5 star",
@@ -272,7 +272,7 @@
         "size": 42,
         "reviews": 5120,
         "ratingAvg": 4.3,
-        "downloads": "1.8M",
+        "downloads": 1800000,
         "ratings": [
             {
                 "name": "5 star",
@@ -305,7 +305,7 @@
         "size": 25,
         "reviews": 890,
         "ratingAvg": 4.0,
-        "downloads": "220K",
+        "downloads": 220000,
         "ratings": [
             {
                 "name": "5 star",
@@ -338,7 +338,7 @@
         "size": 36,
         "reviews": 1450,
         "ratingAvg": 4.4,
-        "downloads": "410K",
+        "downloads": 410000,
         "ratings": [
             {
                 "name": "5 star",
@@ -371,7 +371,7 @@
         "size": 30,
         "reviews": 980,
         "ratingAvg": 4.2,
-        "downloads": "150K",
+        "downloads": 150000,
         "ratings": [
             {
                 "name": "5 star",
@@ -404,7 +404,7 @@
         "size": 12,
         "reviews": 430,
         "ratingAvg": 4.0,
-        "downloads": "90K",
+        "downloads": 90000,
         "ratings": [
             {
                 "name": "5 star",
@@ -437,7 +437,7 @@
         "size": 18,
         "reviews": 670,
         "ratingAvg": 4.5,
-        "downloads": "140K",
+        "downloads": 140000,
         "ratings": [
             {
                 "name": "5 star",
@@ -470,7 +470,7 @@
         "size": 28,
         "reviews": 2100,
         "ratingAvg": 4.3,
-        "downloads": "520K",
+        "downloads": 520000,
         "ratings": [
             {
                 "name": "5 star",
@@ -503,7 +503,7 @@
         "size": 22,
         "reviews": 760,
         "ratingAvg": 4.4,
-        "downloads": "195K",
+        "downloads": 195000,
         "ratings": [
             {
                 "name": "5 star",
@@ -536,7 +536,7 @@
         "size": 72,
         "reviews": 3240,
         "ratingAvg": 4.6,
-        "downloads": "780K",
+        "downloads": 780000,
         "ratings": [
             {
                 "name": "5 star",
@@ -569,7 +569,7 @@
         "size": 34,
         "reviews": 540,
         "ratingAvg": 4.2,
-        "downloads": "98K",
+        "downloads": 98000,
         "ratings": [
             {
                 "name": "5 star",
@@ -602,7 +602,7 @@
         "size": 47,
         "reviews": 2980,
         "ratingAvg": 4.7,
-        "downloads": "1M",
+        "downloads": 1000000,
         "ratings": [
             {
                 "name": "5 star",
@@ -614,44 +614,110 @@
             },
             {
                 "name": "3 star",
-                "count": 150
+                "count": 120
             },
             {
                 "name": "2 star",
-                "count": 55
+                "count": 70
             },
             {
                 "name": "1 star",
-                "count": 40
+                "count": 55
             }
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/2932/2932016.png",
-        "title": "InvoiceMate",
-        "companyName": "BizTools",
+        "image": "https://cdn-icons-png.flaticon.com/512/2922/2922716.png",
+        "title": "QuickNotes",
+        "companyName": "NoteIt",
         "id": 20,
-        "description": "InvoiceMate helps small businesses create invoices, track payments, and manage clients. Exports to PDF and syncs with accounting platforms.",
-        "size": 40,
-        "reviews": 830,
+        "description": "QuickNotes is a simple, fast note-taking app with cloud sync, reminders, and folder organization. Supports rich text and image embedding.",
+        "size": 20,
+        "reviews": 1340,
         "ratingAvg": 4.3,
-        "downloads": "210K",
+        "downloads": 270000,
         "ratings": [
             {
                 "name": "5 star",
-                "count": 245
+                "count": 540
             },
             {
                 "name": "4 star",
-                "count": 350
+                "count": 450
             },
             {
                 "name": "3 star",
-                "count": 150
+                "count": 220
             },
             {
                 "name": "2 star",
-                "count": 55
+                "count": 80
+            },
+            {
+                "name": "1 star",
+                "count": 50
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/252/252025.png",
+        "title": "SmartHome Control",
+        "companyName": "HomeTech",
+        "id": 21,
+        "description": "SmartHome Control allows users to manage lights, thermostats, security cameras, and appliances from one dashboard. Integrates with Alexa and Google Home.",
+        "size": 65,
+        "reviews": 2220,
+        "ratingAvg": 4.4,
+        "downloads": 480000,
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 1050
+            },
+            {
+                "name": "4 star",
+                "count": 780
+            },
+            {
+                "name": "3 star",
+                "count": 240
+            },
+            {
+                "name": "2 star",
+                "count": 90
+            },
+            {
+                "name": "1 star",
+                "count": 60
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910769.png",
+        "title": "WorkoutPal",
+        "companyName": "FitnessCore",
+        "id": 22,
+        "description": "WorkoutPal provides daily workout plans, exercise tutorials, and progress tracking. Connects with wearables for heart rate monitoring and calories burned.",
+        "size": 50,
+        "reviews": 1600,
+        "ratingAvg": 4.5,
+        "downloads": 370000,
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 850
+            },
+            {
+                "name": "4 star",
+                "count": 450
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 70
             },
             {
                 "name": "1 star",
@@ -660,64 +726,64 @@
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
-        "title": "GroceryGo",
-        "companyName": "MarketEase",
-        "id": 21,
-        "description": "GroceryGo offers online grocery shopping, same-day delivery, recipe suggestions based on cart items, and smart shopping lists.",
-        "size": 62,
-        "reviews": 2200,
-        "ratingAvg": 4.2,
-        "downloads": "450K",
+        "image": "https://cdn-icons-png.flaticon.com/512/2920/2920313.png",
+        "title": "PhotoEdit Express",
+        "companyName": "PixelEdge Studios",
+        "id": 23,
+        "description": "PhotoEdit Express offers quick photo enhancements, filters, and collage templates. Perfect for social media posts.",
+        "size": 42,
+        "reviews": 1210,
+        "ratingAvg": 4.1,
+        "downloads": 185000,
         "ratings": [
             {
                 "name": "5 star",
-                "count": 730
+                "count": 550
             },
             {
                 "name": "4 star",
-                "count": 800
+                "count": 370
             },
             {
                 "name": "3 star",
-                "count": 420
+                "count": 180
             },
             {
                 "name": "2 star",
-                "count": 140
+                "count": 60
             },
             {
                 "name": "1 star",
-                "count": 110
+                "count": 50
             }
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910793.png",
-        "title": "VR Gallery",
-        "companyName": "Immersive Arts",
-        "id": 22,
-        "description": "VR Gallery brings virtual art exhibitions to your device. Explore 3D galleries, read artist bios, and attend live virtual talks.",
-        "size": 120,
-        "reviews": 410,
-        "ratingAvg": 4.0,
-        "downloads": "60K",
+        "image": "https://cdn-icons-png.flaticon.com/512/2921/2921820.png",
+        "title": "DocuManager",
+        "companyName": "DocuFast",
+        "id": 24,
+        "description": "DocuManager allows organizing, editing, and sharing documents securely. OCR support included.",
+        "size": 55,
+        "reviews": 980,
+        "ratingAvg": 4.3,
+        "downloads": 245000,
         "ratings": [
             {
                 "name": "5 star",
+                "count": 520
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
                 "count": 100
             },
             {
-                "name": "4 star",
-                "count": 150
-            },
-            {
-                "name": "3 star",
-                "count": 110
-            },
-            {
                 "name": "2 star",
-                "count": 30
+                "count": 40
             },
             {
                 "name": "1 star",
@@ -726,31 +792,31 @@
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910766.png",
-        "title": "KidsLearn",
-        "companyName": "TinyMinds",
-        "id": 23,
-        "description": "KidsLearn is an educational app for young children with interactive games, stories, and learning paths for early literacy and numeracy.",
-        "size": 90,
-        "reviews": 1240,
-        "ratingAvg": 4.6,
-        "downloads": "320K",
+        "image": "https://cdn-icons-png.flaticon.com/512/2922/2922714.png",
+        "title": "NoteMaster",
+        "companyName": "NoteIt",
+        "id": 26,
+        "description": "NoteMaster offers rich-text notes, folders, cloud backup, and real-time collaboration for teams.",
+        "size": 27,
+        "reviews": 890,
+        "ratingAvg": 4.3,
+        "downloads": 120000,
         "ratings": [
             {
                 "name": "5 star",
-                "count": 575
-            },
-            {
-                "name": "4 star",
                 "count": 400
             },
             {
+                "name": "4 star",
+                "count": 320
+            },
+            {
                 "name": "3 star",
-                "count": 200
+                "count": 120
             },
             {
                 "name": "2 star",
-                "count": 40
+                "count": 35
             },
             {
                 "name": "1 star",
@@ -759,60 +825,93 @@
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/201/201623.png",
-        "title": "BoardPlanner",
-        "companyName": "OrganizeIt",
-        "id": 24,
-        "description": "BoardPlanner helps teams plan sprints, create boards, and visualize workloads with drag-and-drop features and analytics.",
-        "size": 58,
-        "reviews": 640,
-        "ratingAvg": 4.1,
-        "downloads": "97K",
+        "image": "https://cdn-icons-png.flaticon.com/512/1040/1040260.png",
+        "title": "MindRelax",
+        "companyName": "CalmWave",
+        "id": 27,
+        "description": "MindRelax provides meditation sessions, ambient sounds, and sleep aids for relaxation and stress relief.",
+        "size": 40,
+        "reviews": 1500,
+        "ratingAvg": 4.5,
+        "downloads": 330000,
         "ratings": [
             {
                 "name": "5 star",
-                "count": 215
+                "count": 900
             },
             {
                 "name": "4 star",
-                "count": 260
+                "count": 400
             },
             {
                 "name": "3 star",
-                "count": 110
+                "count": 130
             },
             {
                 "name": "2 star",
-                "count": 35
+                "count": 45
             },
             {
                 "name": "1 star",
-                "count": 20
+                "count": 25
             }
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
-        "title": "ScannerCam Pro",
-        "companyName": "CaptureWorks",
-        "id": 25,
-        "description": "ScannerCam Pro scans documents, cleans images, and exports multi-page PDFs. Includes OCR and cloud backup options.",
-        "size": 29,
-        "reviews": 980,
-        "ratingAvg": 4.2,
-        "downloads": "180K",
+        "image": "https://cdn-icons-png.flaticon.com/512/2920/2920315.png",
+        "title": "PhotoLab AI",
+        "companyName": "PixelEdge Studios",
+        "id": 28,
+        "description": "PhotoLab AI enhances images with AI filters, backgrounds, and auto-retouch tools. Ideal for photographers and influencers.",
+        "size": 65,
+        "reviews": 2900,
+        "ratingAvg": 4.6,
+        "downloads": 820000,
         "ratings": [
             {
                 "name": "5 star",
-                "count": 340
+                "count": 1700
             },
             {
                 "name": "4 star",
-                "count": 360
+                "count": 800
             },
             {
                 "name": "3 star",
-                "count": 180
+                "count": 250
+            },
+            {
+                "name": "2 star",
+                "count": 100
+            },
+            {
+                "name": "1 star",
+                "count": 50
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2922/2922715.png",
+        "title": "TaskManager Pro",
+        "companyName": "NextGen Labs",
+        "id": 29,
+        "description": "TaskManager Pro helps professionals organize projects, assign tasks, and track progress with Gantt charts, Kanban boards, and reminders.",
+        "size": 58,
+        "reviews": 1750,
+        "ratingAvg": 4.5,
+        "downloads": 410000,
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 950
+            },
+            {
+                "name": "4 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 200
             },
             {
                 "name": "2 star",
@@ -825,89 +924,23 @@
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/641/641796.png",
-        "title": "DailyQuotes",
-        "companyName": "InspireNow",
-        "id": 26,
-        "description": "DailyQuotes supplies curated motivational quotes, wallpapers, and shareable images to brighten your day.",
-        "size": 14,
-        "reviews": 320,
-        "ratingAvg": 4.5,
-        "downloads": "85K",
+        "image": "https://cdn-icons-png.flaticon.com/512/2921/2921823.png",
+        "title": "VoiceRecorder X",
+        "companyName": "AudioVerse",
+        "id": 30,
+        "description": "VoiceRecorder X is a high-quality voice recording app with noise reduction, editing tools, and cloud backup. Supports multiple formats.",
+        "size": 33,
+        "reviews": 680,
+        "ratingAvg": 4.3,
+        "downloads": 160000,
         "ratings": [
             {
                 "name": "5 star",
-                "count": 160
+                "count": 300
             },
             {
                 "name": "4 star",
-                "count": 85
-            },
-            {
-                "name": "3 star",
-                "count": 50
-            },
-            {
-                "name": "2 star",
-                "count": 15
-            },
-            {
-                "name": "1 star",
-                "count": 10
-            }
-        ]
-    },
-    {
-        "image": "https://cdn-icons-png.flaticon.com/512/883/883347.png",
-        "title": "DriveCleaner",
-        "companyName": "SystemCare",
-        "id": 27,
-        "description": "DriveCleaner frees up storage, clears cache, and optimizes performance with one-tap cleaning and scheduled maintenance.",
-        "size": 20,
-        "reviews": 1500,
-        "ratingAvg": 4.0,
-        "downloads": "410K",
-        "ratings": [
-            {
-                "name": "5 star",
-                "count": 320
-            },
-            {
-                "name": "4 star",
-                "count": 520
-            },
-            {
-                "name": "3 star",
-                "count": 380
-            },
-            {
-                "name": "2 star",
-                "count": 160
-            },
-            {
-                "name": "1 star",
-                "count": 120
-            }
-        ]
-    },
-    {
-        "image": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png",
-        "title": "ParkFinder",
-        "companyName": "CityNav",
-        "id": 28,
-        "description": "ParkFinder helps drivers locate nearby parking, compare prices, and reserve spots in advance with navigation integration.",
-        "size": 27,
-        "reviews": 410,
-        "ratingAvg": 4.1,
-        "downloads": "90K",
-        "ratings": [
-            {
-                "name": "5 star",
-                "count": 95
-            },
-            {
-                "name": "4 star",
-                "count": 160
+                "count": 220
             },
             {
                 "name": "3 star",
@@ -915,7 +948,7 @@
             },
             {
                 "name": "2 star",
-                "count": 35
+                "count": 40
             },
             {
                 "name": "1 star",
@@ -924,27 +957,93 @@
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/201/201623.png",
-        "title": "StudyPlanner Pro",
-        "companyName": "FocusLabs",
-        "id": 29,
-        "description": "StudyPlanner Pro helps students schedule study time, set goals, and track productivity with Pomodoro timers and analytics.",
-        "size": 33,
-        "reviews": 720,
+        "id": 31,
+        "title": "NoteMaster",
+        "companyName": "QuickNotes Inc",
+        "description": "NoteMaster lets you quickly jot down ideas, organize notes in folders, and sync across devices.",
+        "size": 20,
+        "reviews": 520,
         "ratingAvg": 4.4,
-        "downloads": "145K",
+        "downloads": 75000,
+        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910736.png",
         "ratings": [
             {
                 "name": "5 star",
-                "count": 270
+                "count": 300
             },
             {
                 "name": "4 star",
-                "count": 280
+                "count": 140
             },
             {
                 "name": "3 star",
-                "count": 120
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "1 star",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "title": "FitMeal Planner",
+        "companyName": "HealthTrack",
+        "description": "Plan your meals, track calories, and maintain a healthy diet with FitMeal Planner.",
+        "size": 45,
+        "reviews": 1100,
+        "ratingAvg": 4.5,
+        "downloads": 180000,
+        "image": "https://cdn-icons-png.flaticon.com/512/1046/1046784.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 700
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "1 star",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "title": "TravelLogger",
+        "companyName": "GlobeTrotters",
+        "description": "Capture your journeys, log visited places, and share travel experiences with friends.",
+        "size": 55,
+        "reviews": 890,
+        "ratingAvg": 4.3,
+        "downloads": 125000,
+        "image": "https://cdn-icons-png.flaticon.com/512/2838/2838912.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 90
             },
             {
                 "name": "2 star",
@@ -957,27 +1056,60 @@
         ]
     },
     {
-        "image": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
-        "title": "Emergency SOS",
-        "companyName": "SafeNet",
-        "id": 30,
-        "description": "Emergency SOS provides one-tap alerts to contacts, location sharing, and emergency numbers with automatic fall detection and low-battery mode.",
-        "size": 16,
-        "reviews": 660,
-        "ratingAvg": 4.3,
-        "downloads": "120K",
+        "id": 34,
+        "title": "MindfulMeditate",
+        "companyName": "CalmMind",
+        "description": "Guided meditations, breathing exercises, and sleep stories for mindfulness and relaxation.",
+        "size": 60,
+        "reviews": 1500,
+        "ratingAvg": 4.7,
+        "downloads": 320000,
+        "image": "https://cdn-icons-png.flaticon.com/512/4140/4140053.png",
         "ratings": [
             {
                 "name": "5 star",
-                "count": 310
+                "count": 1000
             },
             {
                 "name": "4 star",
-                "count": 220
+                "count": 350
             },
             {
                 "name": "3 star",
-                "count": 90
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "1 star",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "title": "TaskTimer Pro",
+        "companyName": "ProductivityLabs",
+        "description": "Manage tasks efficiently with timers, reminders, and Pomodoro technique support.",
+        "size": 28,
+        "reviews": 720,
+        "ratingAvg": 4.4,
+        "downloads": 95000,
+        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910732.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 400
+            },
+            {
+                "name": "4 star",
+                "count": 200
+            },
+            {
+                "name": "3 star",
+                "count": 80
             },
             {
                 "name": "2 star",
@@ -986,6 +1118,501 @@
             {
                 "name": "1 star",
                 "count": 15
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "title": "CryptoTracker",
+        "companyName": "BlockChainTech",
+        "description": "Track cryptocurrency prices, market trends, and your portfolio in real-time.",
+        "size": 70,
+        "reviews": 1340,
+        "ratingAvg": 4.6,
+        "downloads": 210000,
+        "image": "https://cdn-icons-png.flaticon.com/512/733/733614.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "1 star",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "title": "PetCare Tracker",
+        "companyName": "HappyPets",
+        "description": "Keep track of your pets' health, vaccination schedules, and reminders for care routines.",
+        "size": 35,
+        "reviews": 640,
+        "ratingAvg": 4.5,
+        "downloads": 85000,
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 400
+            },
+            {
+                "name": "4 star",
+                "count": 180
+            },
+            {
+                "name": "3 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "1 star",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "title": "LanguageLearner",
+        "companyName": "LingoPro",
+        "description": "Interactive lessons and quizzes to help learn a new language quickly and effectively.",
+        "size": 80,
+        "reviews": 2100,
+        "ratingAvg": 4.6,
+        "downloads": 290000,
+        "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 1300
+            },
+            {
+                "name": "4 star",
+                "count": 600
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "1 star",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "title": "SmartScanner",
+        "companyName": "ScanTech",
+        "description": "Scan documents, receipts, and images with OCR, and save them as PDFs or images.",
+        "size": 40,
+        "reviews": 900,
+        "ratingAvg": 4.2,
+        "downloads": 120000,
+        "image": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "1 star",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "title": "HealthySleep",
+        "companyName": "SleepWell",
+        "description": "Monitor your sleep patterns and get personalized tips for better rest and relaxation.",
+        "size": 50,
+        "reviews": 1150,
+        "ratingAvg": 4.5,
+        "downloads": 195000,
+        "image": "https://cdn-icons-png.flaticon.com/512/3163/3163475.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 700
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "1 star",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "title": "BudgetTrack",
+        "companyName": "FinanceGuru",
+        "description": "Track expenses, set budgets, and visualize spending habits easily with BudgetTrack.",
+        "size": 32,
+        "reviews": 780,
+        "ratingAvg": 4.4,
+        "downloads": 110000,
+        "image": "https://cdn-icons-png.flaticon.com/512/2920/2920243.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 450
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "1 star",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "title": "PhotoEditX",
+        "companyName": "PixelArt Studios",
+        "description": "Professional photo editing tools, filters, and effects for stunning images on the go.",
+        "size": 85,
+        "reviews": 1500,
+        "ratingAvg": 4.6,
+        "downloads": 260000,
+        "image": "https://cdn-icons-png.flaticon.com/512/2920/2920314.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 450
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "1 star",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "title": "NewsFlash",
+        "companyName": "MediaStream",
+        "description": "Stay updated with breaking news, live alerts, and trending topics worldwide.",
+        "size": 40,
+        "reviews": 1250,
+        "ratingAvg": 4.3,
+        "downloads": 175000,
+        "image": "https://cdn-icons-png.flaticon.com/512/8637/8637085.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 650
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "1 star",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "title": "WorkoutBuddy",
+        "companyName": "FitLife",
+        "description": "Guided workouts, tracking, and fitness plans to reach your goals faster.",
+        "size": 65,
+        "reviews": 2100,
+        "ratingAvg": 4.7,
+        "downloads": 330000,
+        "image": "https://cdn-icons-png.flaticon.com/512/4727/4727430.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 1400
+            },
+            {
+                "name": "4 star",
+                "count": 600
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "1 star",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "title": "LanguageFlash",
+        "companyName": "QuickLingo",
+        "description": "Learn new words daily, practice with quizzes, and improve language skills efficiently.",
+        "size": 30,
+        "reviews": 890,
+        "ratingAvg": 4.5,
+        "downloads": 145000,
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "1 star",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "title": "TaskManager X",
+        "companyName": "OrganizePro",
+        "description": "Plan, organize, and prioritize tasks with reminders and project views.",
+        "size": 55,
+        "reviews": 1020,
+        "ratingAvg": 4.4,
+        "downloads": 160000,
+        "image": "https://cdn-icons-png.flaticon.com/512/942/942748.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 600
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "1 star",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "title": "MeditationPro",
+        "companyName": "CalmLife",
+        "description": "Meditation sessions, ambient sounds, and mindfulness exercises for stress relief.",
+        "size": 48,
+        "reviews": 1180,
+        "ratingAvg": 4.6,
+        "downloads": 225000,
+        "image": "https://cdn-icons-png.flaticon.com/512/4140/4140053.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "1 star",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "title": "ExpenseTracker",
+        "companyName": "MoneyWise",
+        "description": "Track your expenses, categorize spending, and visualize trends easily.",
+        "size": 38,
+        "reviews": 970,
+        "ratingAvg": 4.5,
+        "downloads": 155000,
+        "image": "https://cdn-icons-png.flaticon.com/512/2920/2920250.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 550
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "1 star",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "title": "QuickRecipes",
+        "companyName": "YumWorld",
+        "description": "Discover easy-to-cook recipes, save favorites, and create shopping lists.",
+        "size": 33,
+        "reviews": 840,
+        "ratingAvg": 4.4,
+        "downloads": 140000,
+        "image": "https://cdn-icons-png.flaticon.com/512/201/201634.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "1 star",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "title": "DailyPlanner Pro",
+        "companyName": "OrganizeIt",
+        "description": "Plan your day efficiently with reminders, tasks, and schedule management.",
+        "size": 40,
+        "reviews": 990,
+        "ratingAvg": 4.5,
+        "downloads": 165000,
+        "image": "https://cdn-icons-png.flaticon.com/512/942/942748.png",
+        "ratings": [
+            {
+                "name": "5 star",
+                "count": 600
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "1 star",
+                "count": 10
             }
         ]
     }

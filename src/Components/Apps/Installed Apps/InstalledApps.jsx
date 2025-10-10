@@ -17,11 +17,11 @@ const InstalledApps = () => {
     const handelOnChange = (e) => {
         const value = e.target.value;
         if (value === 'lowToHigh') {
-            setAllStoredApps([...allStoredApps].sort((a, b) => a.ratingAvg - b.ratingAvg))
+            setAllStoredApps([...allStoredApps].sort((a, b) => a.downloads - b.downloads))
 
         }
         else if (value === 'highToLow') {
-            setAllStoredApps([...allStoredApps].sort((a, b) => b.ratingAvg - a.ratingAvg))
+            setAllStoredApps([...allStoredApps].sort((a, b) => b.downloads - a.downloads))
 
         }
     }

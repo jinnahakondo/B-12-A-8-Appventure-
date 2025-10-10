@@ -1,8 +1,17 @@
 import React from 'react';
 import DownloadIcon from '../../../assets/icon-downloads.png'
 import RateIcon from '../../../assets/icon-ratings.png'
+import { addAppsToLs, getStoredApps } from '../../../Utiltty/Utility';
+import { toast } from 'react-toastify';
 
 const InstalledApp = ({ app }) => {
+
+    const handelUnInstallBtn = () => {
+        const storedAppsId = getStoredApps();
+        const ids = storedAppsId.map(storedId => parseInt(storedId))
+        const updatedId = ids.filter(id => id !== app.id);
+        // addAppsToLs(updatedId)
+    }
     return (
         <div className='flex flex-col md:flex-row justify-center items-center  md:justify-between gap-5 shadow-lg  rounded-lg p-4 border border-gray-300'>
             {/* left div  */}
@@ -30,7 +39,7 @@ const InstalledApp = ({ app }) => {
             </div>
             {/* right div  */}
             <div className=''>
-                <button className='bg-green-500 text-white font-bold px-5 py-2 rounded-xl'> Uninstall</button>
+                <button onClick={handelUnInstallBtn} className='bg-green-500 text-white font-bold px-5 py-2 rounded-xl'> Uninstall</button>
             </div>
         </div >
     );
