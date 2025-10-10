@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from 'react';
+import React, { lazy, useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
 import { getStoredApps, removeFromLs } from '../../../Utiltty/Utility';
-import InstalledApp from './InstalledApp';
 import { toast } from 'react-toastify';
 
+const InstalledApp = lazy(() => import('./InstalledApp'))
 const InstalledApps = () => {
     const allApps = useLoaderData()
     const [allStoredApps, setAllStoredApps] = useState([])
