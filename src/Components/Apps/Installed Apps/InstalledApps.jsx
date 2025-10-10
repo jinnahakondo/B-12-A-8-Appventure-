@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
-import { getStoredApps } from '../../../Utiltty/Utility';
+import { getStoredApps, removeFromLs } from '../../../Utiltty/Utility';
 import InstalledApp from './InstalledApp';
+import { toast } from 'react-toastify';
 
 const InstalledApps = () => {
     const allApps = useLoaderData()
@@ -26,6 +27,14 @@ const InstalledApps = () => {
         }
     }
 
+    const handelUnInstallBtn = id => {
+        const filteredAps = allStoredApps.filter(app => app.id !== id)
+        setAllStoredApps(filteredAps)
+        const Ids = filteredAps.map(app => app.id)
+        removeFromLs(Ids);
+        toast.success("app uninstallation success")
+    }
+
     return (
         <div>
             <div className='my-10'>
@@ -47,7 +56,7 @@ const InstalledApps = () => {
             {/* apps  */}
             <div className='space-y-5 mb-10 '>
                 {
-                    allStoredApps.map(app => <InstalledApp key={app.id} app={app} setAllStoredApps={setAllStoredApps} />)
+                    allStoredApps.map(app => <InstalledApp key={app.id} app={app} handelUnInstallBtn={handelUnInstallBtn} />)
                 }
             </div>
         </div>

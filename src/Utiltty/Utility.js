@@ -2,10 +2,23 @@ import { toast } from "react-toastify";
 
 const getStoredApps = () => {
     const storedApss = localStorage.getItem('storedApss');
-    if (storedApss) {
-        return JSON.parse(storedApss)
+    if (!storedApss) return [];
+    try {
+        const parsedStoredApps = JSON.parse(storedApss)
+        if (Array.isArray(parsedStoredApps)) {
+            return parsedStoredApps;
+        }
+        else {
+            return [];
+        }
     }
-    else { return [] }
+    catch {
+        return []
+    }
+    // if (storedApss) {
+    //     return JSON.parse(storedApss)
+    // }
+    // else { return [] }
 }
 
 const addAppsToLs = id => {
@@ -21,5 +34,9 @@ const addAppsToLs = id => {
 
 }
 
+// remove app from localStorage 
+const removeFromLs = ids => {
+    localStorage.setItem("storedApss", JSON.stringify(ids))
+}
 
-export { getStoredApps, addAppsToLs }
+export { getStoredApps, addAppsToLs, removeFromLs }
