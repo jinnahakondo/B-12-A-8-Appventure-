@@ -11,7 +11,7 @@ const Root = () => {
                 autoClose={2000}
             />
             <Navbar />
-            <div className='w-11/12 mx-auto '>
+            <div className='w-11/12 mx-auto pt-14 '>
                 <Outlet />
             </div>
             <Footer />

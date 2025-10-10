@@ -5,7 +5,7 @@ import { FaGithub } from 'react-icons/fa';
 
 const Navbar = () => {
     return (
-        <div className=' bg-base-100 shadow-sm '>
+        <div className=' bg-base-200 z-40 shadow-sm fixed w-full top-0'>
             <div className="navbar mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -14,7 +14,7 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex={0}
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3  p-2 shadow space-y-5 ">
+                            className="menu menu-sm dropdown-content  rounded-box z-1 mt-3  p-2 shadow space-y-5 bg-base-200 ">
                             <NavLink to='/' >Home</NavLink>
                             <NavLink to='/apps'>Apps</NavLink>
                             <NavLink to='/installation'>Installation</NavLink>
