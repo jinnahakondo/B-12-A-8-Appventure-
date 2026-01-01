@@ -29,5 +29,14 @@ Check out the live demo here: [AppVerture Live Demo](https://appventure-jinnahak
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/appventure.git
+   git clone https:git@github.com:jinnahakondo/B-12-A-8-Appventure-.git
    cd appventure
+  ```
+2. ** Install npm packeges
+``` bash
+npm i
+```
+3. Run The Project
+```bash
+npm run dev
+```
