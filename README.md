@@ -28,7 +28,7 @@ Check out the live demo here: [AppVerture Live Demo](https://appventure-jinnahak
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   ```bash
+ ```bash
    git clone https:git@github.com:jinnahakondo/B-12-A-8-Appventure-.git
    cd appventure
   ```
