@@ -32,7 +32,7 @@ Check out the live demo here: [AppVerture Live Demo](https://appventure-jinnahak
    git clone https:git@github.com:jinnahakondo/B-12-A-8-Appventure-.git
    cd appventure
   ```
-2. ** Install npm packeges
+2. **Install npm packeges
 ``` bash
 npm i
 ```
